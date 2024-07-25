@@ -1,0 +1,23 @@
+# Data manipulation and analysis
+pandas
+numpy
+
+# Machine learning and statistical modeling
+scikit-learn
+statsmodels
+
+# Deep learning
+tensorflow
+keras
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter Notebook
+jupyterlab
+
+# Other useful libraries
+scipy
+joblib
+h5py
